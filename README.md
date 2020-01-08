@@ -5,7 +5,7 @@ I would recommend checking if the directories exist before removing them.
 
 ## Download MySQL
 Here is a link to MySQL's instructions: https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/
-Be sure to download the install for 5.7! It is located here https://dev.mysql.com/downloads/installer/
+Be sure to download the install for 5.7! It is located here https://dev.mysql.com/downloads/mysql/
 Click the link "Looking for previous GA versions?" to see 5.7.
 
 ## Install MySQL
