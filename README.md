@@ -41,13 +41,18 @@ Install with `pipenv install`. Run a shell with `pipenv shell`. Run the script w
 
 # GCP Setup
 
+## Uninstall Cloud SDK (optional)
+https://cloud.google.com/sdk/docs/uninstall-cloud-sdk
+If you have any issues with the SDK, you can uninstall, but if it needs to update, it will prompt you.
+
+## Install the Google Could SDK
+https://cloud.google.com/sdk/docs/#install_the_latest_cloud_sdk_version
+Follow the instructions.
+
 ## Create the Database Instance
 https://cloud.google.com/sql/docs/mysql/quickstart
 Follow the instructions under "Before you begin" and "Create an instance".
 We'll connect to it later.
-
-## Install the Google Could SDK
-https://cloud.google.com/sdk/docs/#install_the_latest_cloud_sdk_version
 
 ## Install and Start the Proxy
 https://cloud.google.com/sql/docs/mysql/quickstart-proxy-test
